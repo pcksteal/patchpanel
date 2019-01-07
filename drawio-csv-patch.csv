@@ -1,0 +1,4 @@
+port,switchport,vlan,desc
+A1,Gi0/1,850,Test
+A2,Gi0/2,Trunk,Test2
+B1,Gi0/24,92,Test3
